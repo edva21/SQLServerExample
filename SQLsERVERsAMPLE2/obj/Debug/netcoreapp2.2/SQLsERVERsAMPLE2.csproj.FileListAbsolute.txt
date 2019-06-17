@@ -1,0 +1,11 @@
+/home/eddy/Projects/SQLsERVERsAMPLE2/SQLsERVERsAMPLE2/obj/Debug/netcoreapp2.2/SQLsERVERsAMPLE2.csprojAssemblyReference.cache
+/home/eddy/Projects/SQLsERVERsAMPLE2/SQLsERVERsAMPLE2/obj/Debug/netcoreapp2.2/SQLsERVERsAMPLE2.csproj.CoreCompileInputs.cache
+/home/eddy/Projects/SQLsERVERsAMPLE2/SQLsERVERsAMPLE2/obj/Debug/netcoreapp2.2/SQLsERVERsAMPLE2.AssemblyInfoInputs.cache
+/home/eddy/Projects/SQLsERVERsAMPLE2/SQLsERVERsAMPLE2/obj/Debug/netcoreapp2.2/SQLsERVERsAMPLE2.AssemblyInfo.cs
+/home/eddy/Projects/SQLsERVERsAMPLE2/SQLsERVERsAMPLE2/obj/Debug/netcoreapp2.2/SQLsERVERsAMPLE2.dll
+/home/eddy/Projects/SQLsERVERsAMPLE2/SQLsERVERsAMPLE2/obj/Debug/netcoreapp2.2/SQLsERVERsAMPLE2.pdb
+/home/eddy/Projects/SQLsERVERsAMPLE2/SQLsERVERsAMPLE2/bin/Debug/netcoreapp2.2/SQLsERVERsAMPLE2.deps.json
+/home/eddy/Projects/SQLsERVERsAMPLE2/SQLsERVERsAMPLE2/bin/Debug/netcoreapp2.2/SQLsERVERsAMPLE2.runtimeconfig.json
+/home/eddy/Projects/SQLsERVERsAMPLE2/SQLsERVERsAMPLE2/bin/Debug/netcoreapp2.2/SQLsERVERsAMPLE2.runtimeconfig.dev.json
+/home/eddy/Projects/SQLsERVERsAMPLE2/SQLsERVERsAMPLE2/bin/Debug/netcoreapp2.2/SQLsERVERsAMPLE2.dll
+/home/eddy/Projects/SQLsERVERsAMPLE2/SQLsERVERsAMPLE2/bin/Debug/netcoreapp2.2/SQLsERVERsAMPLE2.pdb
